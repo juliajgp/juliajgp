@@ -3,9 +3,7 @@
 - Sou uma desenvolvedora Full Stack;
 - Graduada em Matemática Aplicada e Computacional;
 - Mestranda em Humanidades Digitais;
-- Também tenho experiência com Python e Análise de Dados;
-
-- 📫 Me contate por: julia.jgp@gmail.com
+- Possuo experiência com Python e Análise de Dados;
 
 ##
 
